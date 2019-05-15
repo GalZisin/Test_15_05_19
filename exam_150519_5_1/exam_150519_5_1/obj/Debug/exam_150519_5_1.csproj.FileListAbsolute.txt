@@ -1,0 +1,14 @@
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\obj\Debug\exam_150519_5_1.csprojAssemblyReference.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\obj\Debug\exam_150519_5_1.csproj.CoreCompileInputs.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\bin\Debug\exam_150519_5_1.exe.config
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\bin\Debug\exam_150519_5_1.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\bin\Debug\exam_150519_5_1.pdb
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\bin\Debug\EntityFramework.dll
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\bin\Debug\EntityFramework.xml
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\obj\Debug\exam_150519_5_1.csproj.CopyComplete
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\obj\Debug\exam_150519_5_1.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\exam_150519\exam_150519_5_1\exam_150519_5_1\obj\Debug\exam_150519_5_1.pdb
